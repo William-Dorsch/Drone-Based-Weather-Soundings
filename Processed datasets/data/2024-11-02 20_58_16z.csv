@@ -1,0 +1,8 @@
+time,height,temperature,dew
+21:58:56,44.29134,70.2,47.1
+
+# Derived Data
+Lapse Rate 0-14m: 0.0c/km
+
+# Derived Data
+Lapse Rate 0-111m: 2.5c/km
